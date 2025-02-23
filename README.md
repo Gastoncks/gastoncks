@@ -8,7 +8,7 @@
 
 - <p>Understand <span style="color:lightgreen">🟢<strong>French (Native)</strong></span>, <span style="color:yellow"><strong>🟡English (Beginner)</strong></span>, and <span style="color:orange"><strong>🟠Italien (newbie)</strong></span>.</p>
 
-- I love playing **video games**, doing **sports**, **drawing**, create **video** and **listen music**
+- I love playing **video games**, doing **sports**, **drawing**, create **video** and reading **manga**
 <br>**↳** I mostly play : <img src="https://assets.mcasset.cloud/1.21.4/assets/icons/icon_128x128.png" width="16"/> [Minecraft](https://fr.namemc.com/profile/c1647ada-d7f2-4369-99f7-5a3a2c220047), <img src="https://logos-download.com/wp-content/uploads/2021/01/Valorant_Logo.png" width="16"/> [Valorant](https://tracker.gg/valorant/profile/riot/Gastoncks%230000/overview), <img src="https://th.bing.com/th/id/OIP.Nq72BScLaqCxGpsJyLY6eAHaHa?w=500&h=500&rs=1&pid=ImgDetMain" width="16"/> [Fornite](https://www.fortnite.com/), <img src="https://www.factorio.com/static/img/favicon.ico" width="16"/> [Factorio](https://www.factorio.com/) and <img src="https://i.redd.it/wtlr7xodpf6b1.png" width="16"/> [Fear & Hunger](https://store.steampowered.com/app/1002300/Fear__Hunger/)
 
 
