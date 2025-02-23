@@ -1,14 +1,16 @@
 
-- Name: **Gaston**
+- Name: **Gaston VLP**
 
 - I'm curent learning: ***Security, Encryption and JavaScript***.
 
-- Good with **CSS**, **HTML**, **Python** and **Lua**.
+- I can code on : <span style="color:lightgreen">**CSS**, **HTML**, **Python**,</span><span style="color:yellow"> **Lua**, **Java**</span> and <span style="color:orange"> **JavaScript**</span>.
 
-- Familiar with **Debian**, **Ubuntu** and **Linux**.
 
-- Understand **French (Native)**, **English (Beginner)**, and **Italien (newbie)**.
+- Understand <span style="color:lightgreen">**French (Native)**</span>, <span style="color:yellow">**English (Beginner)**</span>, and <span style="color:orange">**Italien (newbie)**</span>.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/647826268280324118)](https://lanyard.cnrad.dev/api/647826268280324118)
+- I love playing **video games**, doing **sports**, **drawing**, create **video** and **listen music**
+<br>**↳** I play at : 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/647826268280324118?showDisplayName=true&animated=false&theme=dark)](https://discord.com/users/647826268280324118)
 
 ![](https://github-readme-stats.vercel.app/api?username=gastoncks&theme=omni&hide_border=false&include_all_commits=true&count_private=false)
